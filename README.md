@@ -48,7 +48,15 @@ plt.show()
 ```
 
 ## Output:
-![image](https://github.com/Rahulv2005/Find-the-best-fit-line-using-Least-Squares-Method/assets/152600335/17e15eb9-6d70-43ce-a0e8-98381c693f14)
+![image](https://github.com/Rahulv2005/Find-the-best-fit-line-using-Least-Squares-Method/assets/152600335/e367ae78-cc0c-4e9b-b5f6-46cea2f37b75)
+![image](https://github.com/Rahulv2005/Find-the-best-fit-line-using-Least-Squares-Method/assets/152600335/d25a849c-834a-4bec-925b-f64546590785)
+![image](https://github.com/Rahulv2005/Find-the-best-fit-line-using-Least-Squares-Method/assets/152600335/d1d25620-b1a6-4a5e-bd5c-f5378823d8aa)
+![image](https://github.com/Rahulv2005/Find-the-best-fit-line-using-Least-Squares-Method/assets/152600335/f25e2e4a-5932-471a-ac24-b2fba517da31)
+![image](https://github.com/Rahulv2005/Find-the-best-fit-line-using-Least-Squares-Method/assets/152600335/efce4e13-9ac0-444e-8b80-a2b59ceb0a2b)
+![image](https://github.com/Rahulv2005/Find-the-best-fit-line-using-Least-Squares-Method/assets/152600335/fbac68ef-2f1a-43c4-87d2-f6857f878ff0)
+![image](https://github.com/Rahulv2005/Find-the-best-fit-line-using-Least-Squares-Method/assets/152600335/20168739-d83c-42c4-be0c-28eea8fd5320)
+![image](https://github.com/Rahulv2005/Find-the-best-fit-line-using-Least-Squares-Method/assets/152600335/271a612d-0a20-4fb6-bf4b-5a078e02954a)
+
 
 
 
